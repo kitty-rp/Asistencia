@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Adm.master.cs" Inherits="Planilla.Adm" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+</head>
+<body>
+
+    <div>
+        <center>
+            <table style="width:900px">
+                <tr>
+                    <td colspan="3" align="center">
+                    <table width="100%">
+                        <tr>
+                            <td rowspan="2">
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/imgs/cabecera1.jpg" Height="150" Width="200" />
+                            </td>
+                            <td align="center">
+                                <asp:Label ID="Label2" runat="server" 
+                                Text="Clínica &quot;Buena Salud&quot;" Font-Bold="True" 
+                                Font-Size="XX-Large" ForeColor="#000099" Font-Italic="False"></asp:Label>
+                            
+                            </td>
+                            <td rowspan="2">
+                                <asp:Image ID="Image2" runat="server" ImageUrl="~/imgs/cabecera2.jpg" Height="150" Width="200" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right">
+                                <asp:Label ID="Label1" runat="server" 
+                                Text="Sistema de control de asistencia y planillas" Font-Bold="True" 
+                                Font-Size="Small" ForeColor="#000099" Font-Italic="True"></asp:Label>
+                            </td>
+                        </tr>
+                    </table>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width:200px; vertical-align:top">
+                        <div class="Panel_1">
+                            <div class="titulo">
+                                ASISTENCIA
+                            </div>
+                            <div class="Cuerpo">
+                                  
+                                  <asp:HyperLink ID="HyperLink7" CssClass="MnLink" runat="server" NavigateUrl="~/Asistencia/Cronograma/Listado.aspx">Cronogramas</asp:HyperLink>
+                                  
+                                  <asp:HyperLink ID="HyperLink4" CssClass="MnLink" runat="server" NavigateUrl="~/Asistencia/Turno/Listado.aspx">Turnos</asp:HyperLink>                         
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+                       
+                    </td>
+                    <td style="vertical-align:top">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td style="width:1px">
+                
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,139 @@
+c:\users\hector\documents\visual studio 2010\Projects\Planilla\Planilla\bin\Planilla.dll
+c:\users\hector\documents\visual studio 2010\Projects\Planilla\Planilla\bin\Planilla.pdb
+c:\users\hector\documents\visual studio 2010\Projects\Planilla\Planilla\obj\Debug\Planilla.dll
+c:\users\hector\documents\visual studio 2010\Projects\Planilla\Planilla\obj\Debug\Planilla.pdb
+D:\RRHH\taller\Planilla\Planilla\bin\Planilla.dll
+D:\RRHH\taller\Planilla\Planilla\bin\Planilla.pdb
+D:\RRHH\taller\Planilla\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\RRHH\taller\Planilla\Planilla\obj\Debug\Planilla.dll
+D:\RRHH\taller\Planilla\Planilla\obj\Debug\Planilla.pdb
+C:\Users\HeCtOr\Desktop\taller\Planilla\Planilla\bin\Planilla.dll
+C:\Users\HeCtOr\Desktop\taller\Planilla\Planilla\bin\Planilla.pdb
+C:\Users\HeCtOr\Desktop\taller\Planilla\Planilla\obj\Debug\Planilla.dll
+C:\Users\HeCtOr\Desktop\taller\Planilla\Planilla\obj\Debug\Planilla.pdb
+D:\Planilla\Planilla\bin\Planilla.dll
+D:\Planilla\Planilla\bin\Planilla.pdb
+D:\Planilla\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Planilla\Planilla\obj\Debug\Planilla.dll
+D:\Planilla\Planilla\obj\Debug\Planilla.pdb
+D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\bin\Planilla.dll
+D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\bin\Planilla.pdb
+D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Debug\Planilla.dll
+D:\UAGRM\TALLER DE GRADO I\RRHH\Planilla\Planilla\obj\Debug\Planilla.pdb
+D:\Planilla_ges\Planilla\bin\Planilla.dll
+D:\Planilla_ges\Planilla\bin\Planilla.pdb
+D:\Planilla_ges\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Planilla_ges\Planilla\obj\Debug\Planilla.dll
+D:\Planilla_ges\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\taller\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\H\Desktop\taller\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Users\H\Desktop\taller\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\H\Desktop\taller\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Planilla_Proy\Planilla\bin\Planilla.dll
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Planilla_Proy\Planilla\bin\Planilla.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+C:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\RRHH\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\RRHH\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\RRHH\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\RRHH\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\RRHH\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\H\Desktop\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Users\H\Desktop\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\H\Desktop\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Planilla_Proy_yhbv\Planilla\bin\Planilla.dll
+D:\Planilla_Proy_yhbv\Planilla\bin\Planilla.pdb
+D:\Planilla_Proy_yhbv\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Planilla_Proy_yhbv\Planilla\obj\Debug\Planilla.dll
+D:\Planilla_Proy_yhbv\Planilla\obj\Debug\Planilla.pdb
+D:\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\Planilla_Proy\Planilla\obj\Debug\Planilla.csprojResolveAssemblyReference.cache
+D:\Users\Marines\Desktop\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Marines\Desktop\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\Marines\Desktop\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\Marines\Desktop\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\Marines\Desktop\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\AjaxControlToolkit.pdb
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\ar\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\cs\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\de\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\es\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\fr\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\he\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\hi\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\it\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\ja\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\ko\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\nl\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\pt\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\ru\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Users\Marines\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\H\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\Users\H\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.csprojResolveAssemblyReference.cache
+D:\Users\H\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\H\Desktop\PRESENTARpROYECTO\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\PRESENTARpROYECTO - Copy\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\PRESENTARpROYECTO - Copy\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\PRESENTARpROYECTO - Copy\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\PRESENTARpROYECTO - Copy\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\PRESENTARpROYECTO - Copy\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\SoftwareII\PRESENTACION_FINAL\1\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\SoftwareII\PRESENTACION_FINAL\1\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\SoftwareII\PRESENTACION_FINAL\1\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\SoftwareII\PRESENTACION_FINAL\1\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\SoftwareII\PRESENTACION_FINAL\1\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\martes\Planilla_Proy\Planilla\obj\Debug\Planilla.csprojResolveAssemblyReference.cache
+D:\Users\H\Desktop\martes\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\Users\H\Desktop\martes\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\H\Desktop\martes\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\Users\H\Desktop\martes\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\martes\Planilla_Proy\Planilla\bin\Planilla.dll
+D:\martes\Planilla_Proy\Planilla\bin\Planilla.pdb
+D:\martes\Planilla_Proy\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\martes\Planilla_Proy\Planilla\obj\Debug\Planilla.dll
+D:\martes\Planilla_Proy\Planilla\obj\Debug\Planilla.pdb
+D:\Users\Marines\Desktop\Planilla_Pro_1y\Planilla\bin\Planilla.dll
+D:\Users\Marines\Desktop\Planilla_Pro_1y\Planilla\bin\Planilla.pdb
+D:\Users\Marines\Desktop\Planilla_Pro_1y\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Marines\Desktop\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.dll
+D:\Users\Marines\Desktop\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.pdb
+D:\Users\Marines\Desktop\Peinado\Planilla_Pro_1y\Planilla\bin\Planilla.dll
+D:\Users\Marines\Desktop\Peinado\Planilla_Pro_1y\Planilla\bin\Planilla.pdb
+D:\Users\Marines\Desktop\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Marines\Desktop\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.dll
+D:\Users\Marines\Desktop\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.pdb
+D:\Peinado\Planilla_Pro_1y\Planilla\bin\Planilla.dll
+D:\Peinado\Planilla_Pro_1y\Planilla\bin\Planilla.pdb
+D:\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.dll
+D:\Peinado\Planilla_Pro_1y\Planilla\obj\Debug\Planilla.pdb
+D:\Peinado\Proyecto\Planilla_Proy1\Planilla\bin\Planilla.dll
+D:\Peinado\Proyecto\Planilla_Proy1\Planilla\bin\Planilla.pdb
+D:\Peinado\Proyecto\Planilla_Proy1\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Peinado\Proyecto\Planilla_Proy1\Planilla\obj\Debug\Planilla.dll
+D:\Peinado\Proyecto\Planilla_Proy1\Planilla\obj\Debug\Planilla.pdb
+D:\Peinado\Proyecto\parte1\Planilla_Proy1\Planilla\bin\Planilla.dll
+D:\Peinado\Proyecto\parte1\Planilla_Proy1\Planilla\bin\Planilla.pdb
+D:\Peinado\Proyecto\parte1\Planilla_Proy1\Planilla\obj\Debug\ResolveAssemblyReference.cache
+D:\Peinado\Proyecto\parte1\Planilla_Proy1\Planilla\obj\Debug\Planilla.dll
+D:\Peinado\Proyecto\parte1\Planilla_Proy1\Planilla\obj\Debug\Planilla.pdb
